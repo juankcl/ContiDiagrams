@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T17:18:13.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="89uaviPLXhqZqxkwFN3y" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T20:13:51.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="f25biTgBiOY5Xs1HMjlP" version="20.2.5" type="github">
   <diagram id="0SxEWgDJXTkLoPQnoZ41" name="Página-1">
-    <mxGraphModel dx="1422" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-1" value="&lt;b&gt;BCM&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="1030" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-2" value="RTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="1030" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="1030" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-5" value="SCHEDULER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="426" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="426" width="855" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="830" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;InfiNeon TC275&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Arial, Helvetica, sans-serif&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="690" width="1035" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-12" value="Communication&lt;br&gt;&lt;br&gt;&amp;nbsp; WDT&amp;nbsp; &amp;nbsp;CLK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-13" value="I/O&amp;nbsp;&lt;br&gt;PWM Driver&amp;nbsp;&amp;nbsp;&lt;br&gt;ADC Driver&lt;br&gt;DIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="755" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-14" value="Memory Drivers&lt;br&gt;RAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-15" value="TMR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-16" value="OSC_Man" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="533.41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-17" value="I/O HW abstraction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="533.41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3UZA_A3aNp--UBdqJW4-17" target="E3UZA_A3aNp--UBdqJW4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-19" value="TMR_man" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771" y="533.41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-20" value="CAN external Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="533.41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-21" value="WDT_Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="533.41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-22" value="Memory Services" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-23" value="Report and Dignostic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3UZA_A3aNp--UBdqJW4-24" value="COM Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
