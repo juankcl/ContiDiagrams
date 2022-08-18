@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T20:29:05.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qeOb8N7Ow9xHLACYN9tW" version="20.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-18T20:33:54.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YW4bsTsbr1NRj77JMV0V" version="20.2.5" type="github" pages="2">
   <diagram id="0SxEWgDJXTkLoPQnoZ41" name="Página-1">
     <mxGraphModel dx="2234" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -83,11 +83,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zN3AyqDoziPQk-1GQuDL" name="Página-2">
-    <mxGraphModel dx="1738" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WIb1HFvYGEBfSn61_mD_-1" value="&lt;b&gt;BCM&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WIb1HFvYGEBfSn61_mD_-1" value="&lt;b&gt;DCU&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="1030" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WIb1HFvYGEBfSn61_mD_-2" value="RTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -138,13 +138,13 @@
         <mxCell id="WIb1HFvYGEBfSn61_mD_-17" value="WDT_Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="251" y="417.40999999999997" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIb1HFvYGEBfSn61_mD_-18" value="Memory Services" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="WIb1HFvYGEBfSn61_mD_-18" value="Window Control" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIb1HFvYGEBfSn61_mD_-19" value="Report and Dignostic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WIb1HFvYGEBfSn61_mD_-19" value="Lock Control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIb1HFvYGEBfSn61_mD_-20" value="COM Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WIb1HFvYGEBfSn61_mD_-20" value="AntiPinch Control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIb1HFvYGEBfSn61_mD_-21" value="SERVICES" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
